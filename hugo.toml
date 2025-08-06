@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Donald Schulz Story: My Journey'
+theme = "hugo-book"
+BookSection = 'docs'
+bookToc = true
