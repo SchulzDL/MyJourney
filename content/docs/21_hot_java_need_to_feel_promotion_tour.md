@@ -1,0 +1,19 @@
+---
+title: "21 Hot Java / Need to Feel Promotion Tour"
+weight: 1
+# bookFlatSection: false
+bookToc: true
+bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+---
+# Hot Java / Need to Feel Promotion Tour
+With the completion of the 7 inch 45 rpm record on our yellow label, we used the label name of Boiler Records (another design by Helen Wong) and I called the band on the record Thunderfoot.  As some additional promotional material I put together some buttons with the Thunderfoot logo (again another design by Helen Wong, I guess you can tell I have always been very impressed with Helen’s ability as she has the incredible gift of taking exactly what I describe into something even better than what I could have imagined).  I took a week of vacation time and planned a trip from Edmonton to Calgary with a plan to see every pop/rock station along the way.
+
+The best feedback on the record was from a very popular AM radio station in Edmonton (CHED) and the program manager put the record on the turntable he had in his office and played both sides while I was there.  Most of the stations were just a meet and greet or not even that and I just left my record and promotional material at the front desk.  This meeting at CHED radio was very surprising to me as they appeared to really want to support local artists if they could.  The problem became evident when we got to the special breaks in the song.  There are certain things that draw me to different elements to an arrangement, sometimes it is the chords that I hear or the groove or beat.  At the time, I was really into Quarter Note Triplets.  I loved them, knew how to write them and play them and as all the musicians that I worked with also understood them can sound incredible and tight.  However, for the average listener the complexity and this feeling I get are lost to them.  If they were dancing to the tune, they would stop and think WTF?  Yea, I just swore, cause this was a major flaw on my shoulders.  Rita’s song was great, and Joe’s performance was perfect but I screwed up on the arrangement.  The other side of the record was totally lost to the CHED audience as it was just too much like jazz and they were not a jazz radio station now or any time in the future.
+
+I did have some luck though, I did go to a fairly new FM radio station in Edmonton CKRA which opened it’s doors as an FM album rock station in 1979.  I got to know the program manager there as we had some very interesting talks.  Besides being the program manager, he also ran some special programs and one of those programs was a one hour jazz fusion show that took place Sunday afternoons.  I would often tune into this program as this was the closest one could get to hear the stuff I was really into which was the fusion of rock/pop/jazz.  Shortly after my meeting with him and I presented him with my usual promotional material, I was listening to his program and right near the end of this particular episode he played “Hot Java” on the radio.  It is an unbelievable feeling to hear your song on the radio for the first time.  I was living in the basement suite of my Uncle Freddy’s Dad’s place and there were several other people living down there I was so excited I was banging on their doors, “MY SONG IS ON THE RADIO RIGHT NOW!!!!”  That was a good day, but that is as far as this record went.
+
+This was also the last real recording that I did in a recording studio.  There were demos that I worked on using my Teac 4 track recorder but nothing in a recording studio.  I might have still been working on some scoring projects for Laurie Berteg and others but I was never involved in the actual sessions.  Oh, but wait that is not quite true because after a long break I did come back to do some work with a local band.  More on that later let's move on.

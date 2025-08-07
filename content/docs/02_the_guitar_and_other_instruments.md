@@ -1,5 +1,5 @@
 ---
-title: "2 The Guitar and Other Instruments"
+title: "02 The Guitar and Other Instruments"
 weight: 1
 # bookFlatSection: false
 bookToc: true

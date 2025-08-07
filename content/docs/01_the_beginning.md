@@ -1,5 +1,5 @@
 ---
-title: "1 The Beginning"
+title: "01 The Beginning"
 weight: 1
 # bookFlatSection: false
 bookToc: true

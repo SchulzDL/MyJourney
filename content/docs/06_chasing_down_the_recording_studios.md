@@ -1,0 +1,21 @@
+---
+title: "06 Chasing Down the Recording Studios"
+weight: 1
+# bookFlatSection: false
+bookToc: true
+bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+---
+# Chasing Down the Recording Studios
+After the tour, I went back to work at the family business (Car and Ag Dealership) waiting for my cousin to return from his job up north in the Territories.  In the meantime, I did get a list of all the recording studios that existed in Edmonton at the time.  There were twelve of them and got that from the Edmonton Yellow Pages.  Very few people even knew that there was a recording studio in Edmonton let alone twelve and one of them even had a pressing plant but the quality was questionable I learned much later from the people in the know of this local industry.
+
+Back then I was writing letters to the studios telling them about me what my plans and ambitions were and asking for any kind of job that would get me through the door.  Mostly I heard nothing, but I did get a very nice rejection letter from Tommy Banks himself the owner of Century 21 Recordings.  I wish I had kept that letter because it turns out that is where David Foster got his very early start in the recording industry, working with Tommy Banks.  Tommy was one of the major supporters of the music program at Grant McEwan and he had a jazz big band that often toured overseas, especially in Japan.  Later in his life, Tommy became an appointed senator representing the Liberal party in a province that was mostly progressive thus allowing a voice for us at the Federal level.
+
+My cousin finally arrived back home in October, and we moved into my Aunt and Uncle's basement suite.  I still had not landed anything in any of the recording studios and now that I was living away from home I needed to make some money to eat and pay rent.  Both my cousin and I got jobs with an Uncle of ours as commercial insulators.  He had a big job doing the insulation of a brand-new cold storage building.  We had to install layers of styrofoam onto all the walls and ceiling using hot tar as the adhesive.  We had this tar pit machine with a rotating roller and you would roll the sheet of styrofoam on the roller and stick it to the wall.  As we got higher up one would be on the scaffolding and one would be at the tar pit.  You would roll the styrofoam on the tar pit roller, stick it onto a tall stick with a nail in it, and raise it to the person on the scaffolding.  He grabs it and sticks it to the wall.
+
+Every day I would call these recording studios on a rotating basis now that I was living in Edmonton and would not have long-distance charges.  I don’t really remember the details but I would probably phone one of them each day and just keep rotating on the list.  Finally one day I got a call back from Rubin Bower of Rulen Records.  He asked me a very strange question, “Are you from manpower? or did manpower send you?”  I guess he had a job listing over there and was wondering if I had answered the ad.  Which I did not, and he described the job as a record sales rep.  I would have the territories of Alberta, Saskatchewan, and Manitoba put into stores; records on consignment and do an inventory of what was still there so he could bill the stores for the records that they sold.  I of course jumped at the chance, it wasn’t really what I was after but it would get my foot into the door and then I could navigate around from that inner position.
+
+Of course, I had to go through an interview process and it was the weirdest interview I have ever had.  I hadn’t had a whole lot of job interviews before and was probably my first real formal one at that.  His office had no windows and was dark except for a lamp on his desk which was pointed more or less in my direction.  When I think about it now it was set up like an interrogation than an interview.  I told him about what I wanted to work in the recording studio and so we worked out a deal.  I would go on the road during the week and since most of the recording was done on the weekend I could come and help out and maybe learn a thing or two in the process.  The job came with some sort of base but the bulk would be from commissions earned from the sale of the records.

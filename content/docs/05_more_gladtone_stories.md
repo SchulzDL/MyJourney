@@ -1,5 +1,5 @@
 ---
-title: "5 More Gladtone Stories"
+title: "05 More Gladtone Stories"
 weight: 1
 # bookFlatSection: false
 bookToc: true

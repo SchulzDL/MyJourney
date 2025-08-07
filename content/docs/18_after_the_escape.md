@@ -1,0 +1,23 @@
+---
+title: "18 After the Escape"
+weight: 1
+# bookFlatSection: false
+bookToc: true
+bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+---
+# After the Escape
+Once we were out of the Studio, Catherine arranged for a cheap rental of a small piece of a Warehouse in an Industrial Park somewhere, I can’t even remember where.  It was more of a storage area as this is where we setup our desks and stuff we had from the Studio.  I don’t think we had it for all that long as it was a bit of a hassle to get there and no real advantages of having this space so we probably sold off what ever contents we no longer wanted or needed and that was that.
+
+I do remember going back to Fullers restaurant to work as a dishwasher once again, but I think this was also how we partially funded the Studio as Catherine also worked there with me at times.  The restaurant had changed quite a bit from the previous time that I worked here as it was no longer a 24/7 dinner.  It closed at 11:00 pm and re-opened at 6:00 am.  One of the things that I do remember was that Catherine and I had met some weird guy who supposedly had strong connections with A&M records in Hollywood and was sure that he could get us a distribution deal with them for us.  The idea was that we would take a road trip down the coast to Los Angeles.  He kept putting it off but I would bug him every day if this was the day we would do this.
+
+Catherine had in the meantime gone ahead to Vancouver as she had a really good friend called Arnie and he was making a lot of money selling Mary Kay products.  I had taken time off from the restaurant in preparation to this road trip I was going to be taking with this guy.  After a week I was frustrated with him and called to let Catherine know that I was coming to Vancouver.  I got on a Greyhound bus and went to Vancouver, met Arnie and I stayed in a holiday trailer that he had parked out back.  It was a very interesting time, Catherine and I even got to tour one or two recording studios.  I think in the back of our minds we were thinking of moving operations to Vancouver and checking out what resources that there might be available to us.
+
+Arnie’s assistant/butler had connections with the local West Minster String Orchestra and this would be great because we would have the possibilities of those players available for some sessions.  Anyway, I stayed longer in Vancouver than my original plan so I missed a cousin's wedding that I was expected to be at.  I had not communicated to anyone where I was or that I was well.  I heard that my mom and dad even went by the restaurant to see if I was back cause they had not heard anything from me for quite a while now and this was before there were cell phones.  The girls from the restaurant were telling me this after I did get back.  Eventually, we said goodbye to Vancouver and I rode back with Catherine as she had driven down in her car.
+
+I think after the Vancouver trip and the uneventful no A&M deal, I switched from being a dishwasher to a short order cook.  This was a lot of fun and I worked with two other cooks on the late night shift, so we also closed every night.  You could not go home until all the dishes washed kitchen torn down and so on.  This was something that I really helped them get out of there on time.  Before, I ever started working there they were closed at eleven but never got out before three am the next day.  I started the cleanup and tear down early so that at the latest we were done by 11:45 pm.  Most nights were where even done before the girls had finished cashing out.
+
+I had some interesting stories working with my friend Dwight who was the senior cook on our shift.  He wasn’t very good at organizing the tickets so that the food for a table could all go out at the same time so I took over calling the tickets and calling the things to be cooked as there were two sides to the kitchen and I got the food to go out at the right time all together.  I wanted to get onto the early shift as the night shift did not allow me any time to go and see any bands to find some talent that I wanted to work with.  However, you needed to be able to flip eggs in a frying pad and that takes a bit of work and talent to accomplish.  During the slow times in our shift and we weren’t busy tearing down the kitchen I would practice as Dwight would teach me how to accomplish this.  We went through so many eggs, of course even before that he had me practice flipping a slice of bread before we switched to eggs.  I never did get to move to the morning shift so I think that this is where I started looking for a day job that I could get as the night shift was not helping me get to where I needed to go.

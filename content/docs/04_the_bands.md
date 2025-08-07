@@ -1,5 +1,5 @@
 ---
-title: "4 The Bands"
+title: "04 The Bands"
 weight: 1
 # bookFlatSection: false
 bookToc: true

@@ -1,0 +1,23 @@
+---
+title: "12 Cornerstone and the Breakup"
+weight: 1
+# bookFlatSection: false
+bookToc: true
+bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+---
+# Cornerstone and the Breakup
+Through out this time frame from when I moved to Edmonton until somewhere in the middle of my second return trip back to F.G. Bradley the meat packing plant I was part of the band called Cornerstone.  Really I started the band and it went though a lot of iterations over the years.  We did not just practise in the garage, we actually did some live shows, couple of Bible Camps, a few coffee houses, and I remember once in the early days we did some sort of show in an old folks home.  One summer Edwin was going home for the summer so we had Darrel Saunders step in as he was able to between semesters in his commerce degree pursue.
+
+We did do our first recording at Rulen Records with our funny bananced band but I used this bass player that I met through Rulen Records and I wish I could remember his name as he also turned out to be a neighbor to me across the alley from where I lived.  He introduced me to Richard Bell who played the drums on that first recording that we made.  He also added some additional guitar riffs as an overdub on that recording as well.  I can’t remember the name of the song that we recorded.  I also think that it was for some sort of a songwriting contest.  I also think that Harvey played both trumpet and trombone on the recording.  I also think that any time that I used the recording studio it was in exchange for some work that I had performed for Ruben.
+
+Before the Burma brothers joined us with Drums and Bass we were a fairly unbalanced unit with Guitar, Flute and a couple of trumpets.  During the summer between my first semester and second semester of Grant McEwan, Wes joined the band.  I was back at Central, I introduced Wes to Pastor Laurie and I joined the Sunday night band playing my alto saxophone.  I sometimes had guys from the band fill in some of the positions in the brass section.  We also had people from Teen Challenge join us.  At one time we had Heide Erisman, Crystal Stevens, and my cousin Maryanne all doing backup vocals.
+
+One summer we were invited to play at the Moose Lake Bible Camp (arranged largely from the Burma Brothers as this was their usual Bible Camp Retreat).  Someone that joined our band was Gerry Oncio and he played French Horn.  In order to compete with the volume from the trumpets and trombone, he played the French Horn without his hand in the bell and from where I was sitting at the keyboard I swear, I kept hearing what sounded like a saxophone.  It was interesting.  Anyway, Gerry had to cut out early from that engagement early because he had an audition with the Edmonton Symphony the next day.  Gerry is still with the Symphony the last I heard.
+
+We did do some additional recording at Rulen Records of a few of our songs.  We even happen to have a fan favorite that was always requested if they ever heard us before to do the long version of Fishers of Men.  This was a song that I wrote when I was in the Gladtones and I used to play it just on my acoustic guitar.  When we played it in Cornerstone we rocked it out quite a bit and the long version included a drum solo which was a lot of fun.  These recordings were done with Ruben being the Engineer.
+
+Somewhere along the way, I didn’t want to keep doing road shows as we were packing a lot of equipment around and really what I wanted to do was more recording and do it with musicians that I could select and work with on just short term projects.  Let’s just say the concept of the concept band was building in my mind.  By this time I was also pretty good friends with Ricard Bell the drummer and Richard was also really interested in the Engineering side of things.  He and his friends had been recording concept songs for years in Richard’s parents basement using a Teac recorder.  He was getting a pretty good sounding sound with the equipment that he was using.  My cousin Harvey was starting University and our goals were no longer lining up.  So, one summer we had decided to part ways.  They would probably still practise and play a few engagements and they would continue to use the name as a band.  I had incorporated the name CornerStone Productions, Ltd so I kept the production name and they kept the band name.  Lonnie had gone to Vancouver for the summer so he didn’t know that we made this new plan.

@@ -1,5 +1,5 @@
 ---
-title: "3 Death of a Younger Brother"
+title: "03 Death of a Younger Brother"
 weight: 1
 # bookFlatSection: false
 bookToc: true

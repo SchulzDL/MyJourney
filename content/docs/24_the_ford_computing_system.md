@@ -1,0 +1,19 @@
+---
+title: "24 The Ford Computing System"
+weight: 1
+# bookFlatSection: false
+bookToc: true
+bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+---
+# The Ford Computing System
+The equipment all arrived weeks before the representative of Ford for the Computer installation and training arrived.  I was very excited about having this system and all the possibilities that it could provide.  Now, the way that this system worked is that there was a flat fee for the equipment and computer time.  I can’t remember if we had more than one terminal, if it was just one, the parts guys would have to put their parts order on our terminal but I don’t remember if I ever saw them do that so there may have been two terminals.  One was in the office that Pearl and I shared and it also had a printer but you wouldn’t use that for any official statements or reports.  In addition to the base price on the computer we also were charged for every customer statement that was printed and all the month end financial statements.  They did provide 3 different customer lists that they provided for free.  We did not need 3 customer lists so I turned one of them into a used car inventory that we could sort by Make and Model or Serial Number.  I think I made the list and sorted them in both ways which really helped Brian to find and identify any car we had on the lot.  When I told the Computer Guy from Ford what I did, he thought that was really clever, none of his franchises that he supported ever did anything like this.  This was another vote of confidence that I have a knack with computers and technology in general.
+
+In addition to that vote of confidence, one time I got a call from this Computer Guy of Ford Motor Company while he was at a customer’s location and had an issue that he did not have an answer for.  He told me about the problem to think about it and we would connect in a couple of days to see if we came up with any work arounds.  I do not remember what this issue was, just that I felt so honored that he would call and ask me what I thought.  Like I said, I was really comfortable with this system and it made an impression on me.  I did not know at the time that this would really mark a new beginning for me in a very different field, but this is where it really started.  Something else that I liked working with, felt totally comfortable with and I had a natural instinct with it.
+
+The financial statements that came out of the computing system were fantastic.  One other thing that I have always been good at was accounting and seeing patterns in data.  I know that my Uncle Dave did not know how to interpret the data that was on the report.  He just looked at the bottom number to see if it was in the red or in the black.  Not paying attention to the rising level of liabilities that we were straining to keep ahead of.  I pointed out some of these things that I was seeing on these reports and that we needed to address.  To me it was more important than the past due accounts I was trying to collect.  I remember that this made him rather upset, I don’t know if he felt threatened that I might now more about what was going on their either he or Brian but he poked me on my chest and said there will never be a day when I would take advice from a twenty year old.  This confirmed to me that my Uncle was somehow feeling threatened by me in some way.
+
+Back on this statement reading thing.  My cousin Brian had gone to NAIT for 2 years on some sort of business related program.  I don’t think it was accounting, because he admitted to me years later that he actually flunked the accounting portion of the program.  Years and years later, maybe a couple of years before he sold the business he took some sort of reading Financials course and told me, “I finally understand what you were talking about in reading and following these trends.”
