@@ -1,0 +1,27 @@
+---
+title: "34 Grant MacEwan for the Second Time"
+weight: 1
+# bookFlatSection: false
+bookToc: true
+bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+# bookHref: ''
+---
+# Grant MacEwan for the Second Time
+This was the official start of my third major career and being that I was quite a bit older I had a blast and really got involved in everything that really interested me and encouraged others in my class to get involved as well.  This introvert sort of pretended to be an extravert to get the groups of people involved.  I think it was a good experiment on my part because I made a lot of good friends as a result of this.
+
+While in college I also decided to take some lessons to learn how to play squash which would be a good thing to get involved in knowing that I would probably be sitting at a desk all day, everyday. I then looked for other students in my program that played squash and we all started playing in between classes on a fairly regular basis.  Then there was this squash tournament that the college sponsored and my Micro Computing Program was the most represented group. I did okay but not a winner by any means, but I was there to cheer on my teammates.  In all this I was surprised one day to get a message that I needed to come down to the fitness center where I was presented with a GMCC duffle bag and named “Sportsman of the Month”. This was just one of the many achievements that I made while in this College.
+
+While in College, I also worked for them. The job was to monitor the computer labs where the students would often do their homework. Somewhere along the way they discovered my programming experience and capabilities. I was not allowed to monitor the computer labs, and the other reason was that because of my vast knowledge that I had in other fields like accounting for instance. I would be bombarded with question from students that were having problems with their homework. I never gave a straight answer, I would make the student work at it to come up with their own answer by taking them back to why they were asking this question gave me a good clue where to take them and correct the path that they were on. I had great joy in being able to help them, not to do their homework but to help them understand the concept that they missed. That should have been my first clue that one of my big passions is mentoring. I love to be able to share and help educate where there is a misunderstanding. This is when I come out of my introvert shell and almost sound like an excited extravert. 
+
+I wrote a program for the Technology department that tracked the traffic in the computer labs. They used to manually count the number of students in the lab every 15 minutes and put it in a book. Someone would take those sheets and build excel charts from the data by entering all the info into Excel. My program collected the data from the lab technician and put it into a database and from the database you could look at that data in real time no more need to transfer the numbers from the sheet. After 4:00 pm I was the technical person in charge and supporting all the computer lab technicians that were on duty that evening. It was quite most nights and gave me lots of time to work on homework and take on some programming projects on the side like the one I did for Ed Wells dad.
+
+Ed was the guy that recommended me for the lab technician job initially. Ed was also my partner in some of the classes that needed a partner. How I worked this was I told Ed he would have to do the work and I will give it the once over and correct anything that wasn’t quite right, but I guaranteed him he would get an A on the course and we did. The instructor was a friend of mine and he knew I would get an A out of this as it was really easy peasy for me and knew that I would make Ed work for this class. I could have gotten an exception for many of the classes but I wanted the full college experience. I even helped out the teacher when they got stuck as they were teaching Visual Basic for the first time and I had been using it for 2 or 3 years already.
+
+Other students in other programs were also confused by me. Back then I wore a sports coat and a tie every day.  The joke was that no one ever saw me without a tie. Our young pastor from Barrhead would come to Edmonton every couple of weeks and I would reserve a squash court so we could play. When Pastor Brent was asked if he ever saw me without a tie, he replied that when he plays squash he still has a tie but it is across his forehead (think sweatband). The other students were not sure if I was a teacher because of the way I was dressed and had keys to every classroom in our area. But I still had a locker in the hall with the rest of them.
+
+For our graduation dinner that was set-up for our program I knew I had to do something a little over the top as everyone one else would be showing up in a suit and tie so I showed up with a tuxedo shirt and tie. Turns out everyone else was wondering what I would do as suit and tie was my normal everyday dress.
+
+Upon graduation I received a scholarship which went towards paying some of my student loans. I was congratulated by each of my professors and a remark that really stuck with me.  We probably learned as much from you and you did from us. I will do well in this field was another comment that I heard. I had a great time in college and the courage to go out there and work in IT.
