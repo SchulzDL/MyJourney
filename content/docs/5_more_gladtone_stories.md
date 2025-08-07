@@ -9,6 +9,7 @@ bookHidden: false
 # bookSearchExclude: false
 # bookHref: ''
 ---
+# More Gladtone Stories
 This is a long time ago and some things I vaguely remember.  I do remember being somewhat impressed with Jerry and I think that he was the one that talked Al and Vivian into bringing me into the group.  Jerry was probably about two years older than me and he was in his last year of High School.  It was his guitar that I played and I also played my saxophone on some songs.  Jerry was funny and would always tell me funny things.  Jerry also played bass in my band as well as the Gladtones.
 
 Being older he would go into the city to attend some of the concerts.  It would be another year or so before I got to see my first concert which was The Oakridge Boys when they did gospel.  Anyway, there was this one time he was at a concert and I don’t know who the main act was but the warmup act was a band called the Centurions.  He brought back some records and they impressed me and influenced me in some ways just as a spoiler alert, I crossed paths with these guys from this band.
