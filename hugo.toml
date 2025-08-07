@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://donaldschulz.com/'
 languageCode = 'en-us'
 title = 'Donald Schulz Story: My Journey'
 theme = "hugo-book"
