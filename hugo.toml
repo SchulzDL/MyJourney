@@ -7,3 +7,4 @@ theme = "hugo-book"
   BookToc = true
   BookTheme = 'auto'
   BookComments = false
+  

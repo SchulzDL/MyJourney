@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # The Beginning
+{{<picture src="/images/Baby.png"  width="300 px">}}
 In the beginning, I was tone deaf, born into a family that liked to sing and perform.  I wouldn’t say that they were good at it but they liked to do it.  As long as I can remember we did have an upright piano in the house and I think it was my mother who started to take lessons although I don’t remember her ever playing.  It was my dad who was the musician, he played violin, squeeze box, guitar, and he would just pick up an instrument and play it.  Mostly he played by ear but he did understand some music theory but very limited you would not want him to sight read your new stuff but he could fake it by knowing the notes go up and down but his timing would be all over the place until he got a feel for the song.
 
 I was probably about seven or eight and my dad attempted to teach me how to play the violin.  I recall that he was even sort of teaching me how to read the music and he gave each of the notes a name but he was using German names for the notes.  Whenever I played a wrong note he would swat me with his bow.  I played a lot of wrong notes and he would get upset with me because I couldn’t hear the difference and was trying as hard as I could to get my finger in the right position.  Needless to say, I hated these lessons, they were a waste of my time and just made everyone upset with me.
