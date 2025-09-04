@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Back to the Meat Packing Plant
+{{<picture src="/images/MeatPacking.png"  width="300 px">}}
 After one semester, I was running out of money and could not continue my studies at the college.  There was no way I could go back to what I did that first semester, that was just too hard I could not tell if I was dreaming or in reality.  However, my marks sure did improve as I got a number of outstanding in a couple of subjects.
 
 I liked the money I was making at F.G. Bradley so I went back that and approached the manager of the plant and he hired me on the spot, as I knew that he would.  His only warning to me was that I lost my seniority position and others have moved up to the position I had gained last summer.  That was no big deal and it wasn’t long before I was an important and essential person on the line.  The work was pretty easy and I had a lot of time to think and plan in my mind as I was making boxes or dragging full pallets of packed meat into the coolers.
