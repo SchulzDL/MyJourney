@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Grant MacEwan for the Second Time
+{{<picture src="/images/MacEwanDowntown.png"  width="300 px">}}
 This was the official start of my third major career and being that I was quite a bit older I had a blast and really got involved in everything that really interested me and encouraged others in my class to get involved as well.  This introvert sort of pretended to be an extravert to get the groups of people involved.  I think it was a good experiment on my part because I made a lot of good friends as a result of this.
 
 While in college I also decided to take some lessons to learn how to play squash which would be a good thing to get involved in knowing that I would probably be sitting at a desk all day, everyday. I then looked for other students in my program that played squash and we all started playing in between classes on a fairly regular basis.  Then there was this squash tournament that the college sponsored and my Micro Computing Program was the most represented group. I did okay but not a winner by any means, but I was there to cheer on my teammates.  In all this I was surprised one day to get a message that I needed to come down to the fitness center where I was presented with a GMCC duffle bag and named “Sportsman of the Month”. This was just one of the many achievements that I made while in this College.
