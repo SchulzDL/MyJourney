@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Cornerstone and the Breakup
+{{<picture src="/images/Cornerstone.png"  width="300 px">}}
 Through out this time frame from when I moved to Edmonton until somewhere in the middle of my second return trip back to F.G. Bradley the meat packing plant I was part of the band called Cornerstone.  Really I started the band and it went though a lot of iterations over the years.  We did not just practise in the garage, we actually did some live shows, couple of Bible Camps, a few coffee houses, and I remember once in the early days we did some sort of show in an old folks home.  One summer Edwin was going home for the summer so we had Darrel Saunders step in as he was able to between semesters in his commerce degree pursue.
 
 We did do our first recording at Rulen Records with our funny bananced band but I used this bass player that I met through Rulen Records and I wish I could remember his name as he also turned out to be a neighbor to me across the alley from where I lived.  He introduced me to Richard Bell who played the drums on that first recording that we made.  He also added some additional guitar riffs as an overdub on that recording as well.  I can’t remember the name of the song that we recorded.  I also think that it was for some sort of a songwriting contest.  I also think that Harvey played both trumpet and trombone on the recording.  I also think that any time that I used the recording studio it was in exchange for some work that I had performed for Ruben.
