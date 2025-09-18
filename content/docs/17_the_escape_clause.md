@@ -9,6 +9,7 @@ bookHidden: false
 # bookSearchExclude: false
 # bookHref: ''
 ---
+{{<picture src="/images/LarryWanagas.png"  width="300 px">}}
 # The Escape Clause
 We had a lease with Ruben and I think it was for a year but we could not sustain the operation and make enough money to keep it alive.  I was even borrowing from Friends to keep things a float.  One day Ruben asks me if I wanted to get out of the lease because there was this interested party that wanted to buy the Studio.  This was great because that also kept Ruben’s and my relationship on a good footing even though after the close of that deal I don’t think I ever heard from him or he from me again.
 

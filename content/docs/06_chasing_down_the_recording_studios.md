@@ -9,6 +9,7 @@ bookHidden: false
 # bookSearchExclude: false
 # bookHref: ''
 ---
+{{<picture src="/images/Studios.png"  width="300 px">}}
 # Chasing Down the Recording Studios
 After the tour, I went back to work at the family business (Car and Ag Dealership) waiting for my cousin to return from his job up north in the Territories.  In the meantime, I did get a list of all the recording studios that existed in Edmonton at the time.  There were twelve of them and got that from the Edmonton Yellow Pages.  Very few people even knew that there was a recording studio in Edmonton let alone twelve and one of them even had a pressing plant but the quality was questionable I learned much later from the people in the know of this local industry.
 
