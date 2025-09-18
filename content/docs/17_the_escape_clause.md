@@ -9,8 +9,8 @@ bookHidden: false
 # bookSearchExclude: false
 # bookHref: ''
 ---
-{{<picture src="/images/LarryWanagas.png"  width="300 px">}}
 # The Escape Clause
+{{<picture src="/images/LarryWanagas.png"  width="300 px">}}
 We had a lease with Ruben and I think it was for a year but we could not sustain the operation and make enough money to keep it alive.  I was even borrowing from Friends to keep things a float.  One day Ruben asks me if I wanted to get out of the lease because there was this interested party that wanted to buy the Studio.  This was great because that also kept Ruben’s and my relationship on a good footing even though after the close of that deal I don’t think I ever heard from him or he from me again.
 
 Larry Wanagus and his team of investors were the interested party.  Larry is sort of a distant relative of sorts.  His Dad officated two of my cousins weddings.  I almost think that both of the sisters got married on the same day as a double wedding.  I am sure this was my uncle’s idea because it sure would have saved him a ton of money.  Anyway, Larry had big dreams to really getting some high end gear and turning this into a high class studio.  I told him I would go a little easy on that idea, because everyone else was going 16 or 24 track and leaving no place where new artists can record their demos.  I really found it interesting as I would hear interviews on the radio where Larry would talk about how he was really going to concentrate on the demo market with his initial investment of the studio.

@@ -9,8 +9,8 @@ bookHidden: false
 # bookSearchExclude: false
 # bookHref: ''
 ---
-{{<picture src="/images/Studios.png"  width="300 px">}}
 # Chasing Down the Recording Studios
+{{<picture src="/images/Studios.png"  width="300 px">}}
 After the tour, I went back to work at the family business (Car and Ag Dealership) waiting for my cousin to return from his job up north in the Territories.  In the meantime, I did get a list of all the recording studios that existed in Edmonton at the time.  There were twelve of them and got that from the Edmonton Yellow Pages.  Very few people even knew that there was a recording studio in Edmonton let alone twelve and one of them even had a pressing plant but the quality was questionable I learned much later from the people in the know of this local industry.
 
 Back then I was writing letters to the studios telling them about me what my plans and ambitions were and asking for any kind of job that would get me through the door.  Mostly I heard nothing, but I did get a very nice rejection letter from Tommy Banks himself the owner of Century 21 Recordings.  I wish I had kept that letter because it turns out that is where David Foster got his very early start in the recording industry, working with Tommy Banks.  Tommy was one of the major supporters of the music program at Grant McEwan and he had a jazz big band that often toured overseas, especially in Japan.  Later in his life, Tommy became an appointed senator representing the Liberal party in a province that was mostly progressive thus allowing a voice for us at the Federal level.
