@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # After the Escape
+{{<picture src="/images/FullersRestaurant.jpg"  width="300 px">}}
 Once we were out of the Studio, Catherine arranged for a cheap rental of a small piece of a Warehouse in an Industrial Park somewhere, I can’t even remember where.  It was more of a storage area as this is where we setup our desks and stuff we had from the Studio.  I don’t think we had it for all that long as it was a bit of a hassle to get there and no real advantages of having this space so we probably sold off what ever contents we no longer wanted or needed and that was that.
 
 I do remember going back to Fullers restaurant to work as a dishwasher once again, but I think this was also how we partially funded the Studio as Catherine also worked there with me at times.  The restaurant had changed quite a bit from the previous time that I worked here as it was no longer a 24/7 dinner.  It closed at 11:00 pm and re-opened at 6:00 am.  One of the things that I do remember was that Catherine and I had met some weird guy who supposedly had strong connections with A&M records in Hollywood and was sure that he could get us a distribution deal with them for us.  The idea was that we would take a road trip down the coast to Los Angeles.  He kept putting it off but I would bug him every day if this was the day we would do this.
