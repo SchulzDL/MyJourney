@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Good Bones but Needed a Major Renovation
+{{<picture src="/images/1159_MellowLane.png"  width="300 px">}}
 We finally landed back in Simi Valley but in the Bridle Path community. This is a community of 630 homes that was developed in the mid 1970’s within the city limits but zoned for residents to keep horses on their property.  What was unique about this neighbourhood is that the street looks like a normal street but the space behind the houses were acres. Mary found a house that was an English Tutor that the owners were trying to make look like a Ranch but the bones where there. It was on 2.5 acres, all on one floor and just under 3000 square feet. This was much bigger than our previous house and the biggest house that Mary had ever owned.
 
 Taking some of the ideas that we saw from some of the other houses that we thought were pretty cool we began a very major renovation. We did something to every room in the house except for the bathroom off of the office. The total renovation took about 3 months. Mary lived and worked in the one bedroom that would eventually become the office. It got too dusty and dirty to stay there after 2 months so the last month I moved them into a dog friendly hotel in Westlake using points that I was earning from. I had it pretty easy during this renovation as I was working on a 9 month consultancy project in Portland, Oregon. I was gone from Monday to Thursday night so only had a few days a week to deal with the inconvenience.
