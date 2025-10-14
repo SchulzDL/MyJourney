@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Expanding the Business
+{{<picture src="/images/Old Case Store.png"  width="300 px">}}
 When we took over the Ford franchise, besides dropping American Motors and Volkswagen we moved the Case franchise of the business to a separate building in the Industrial Park.  This building was owned by Brian and was paid rent for as long as we used it.  Now, Schulz Motors consisted of 3 buildings.  Our main building which consisted of the Showroom and connected service and parts area, the Service Station across the street from it and now the whole agricultural area in that building of Brian’s in the Industrial park.
 
 During this time the parent company of Case, Telco purchase International Harvester and did not want to have two competing Tractor and Ag companies they wanted them to merge into one.  I think they called this Case International.  Where there was both a Case and an International Harvester they would pick one and buy out the other.  All of the other smaller communities around us only had Case franchises so Telco gave each of them the franchise.  When it came to Barrhead there were both and as an excuse Telco said they had to give it to the International Harvester because they did not want to show favorites.  This was a real blow to both my Dad and my Uncle.  I couldn’t have been happier.  This solved my cash flow problem that I was seeing with dead, and I mean dead used tractor deals that we were unable to move for 3 or 4 years.

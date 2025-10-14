@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Going Back to Barrhead
+{{<picture src="/images/Flag_of_Barrhead.png"  width="300 px">}}
 For many years I thought that I gave up on my dream and the vision that I had so many years ago of where I wanted to take my career in Music.  In many ways I even thought it was my Dad that crushed my dreams but after months and months of therapy I really got the answer of what was going on with me.  My Dad was not my dream crusher but my saviour and saved me from a whole lot of loss that I felt all coming down on me at once.
 
 I have long had a reputation of one who knew how to pick themselves up by the bootstraps and start again.  A project failed, we learned from it what was good, what wasn’t so good and moved on to the next one.  It would be surprising to all those people I had surrounded myself with that I had given up.  I didn’t entirely but I was desperate for a change because I felt a defeat like never before.  If it was just one thing I think I would have recovered rather quickly but this was all failing on all ends.  Let's start from the the beginning of this story.

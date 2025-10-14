@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Fast Flow Printing
+{{<picture src="/images/Offset Press.png"  width="300 px">}}
 I do not know how I found these guys maybe there was a want ad in the newspaper, but they were looking for someone to do printing sales.  You know going down the street soliciting businesses for a special on business cards and so on.  I did that for a while and then I started going after some bigger projects.  That led me back to Central Pentecostal Church and the music director that I was pretty good friends with Laurie Bertig [Just a note here, I think I promised a story of the Centurions earlier in my story and that should come earlier than this because I somehow introduced Wes to Laurie and Wes got very involved in many of Laurie’s projects.]
 
 Laurie was excited about a church bulletin that he received from a church in Washington I think.  It was a duo-tone image.  It took a while to get all the details ironed out, getting estimates from Fast Flow and going back and forth.  I even had to make a presentation in front of the Central Church board, but in the end it was approved and I got my big job.  For a while it was even re-occuring revenue because we would print the inserts that would go in these bulletins.  They later devised a template and printed the weekly ones on their photo copy machine.
