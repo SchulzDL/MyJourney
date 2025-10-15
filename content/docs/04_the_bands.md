@@ -10,11 +10,12 @@ bookHidden: false
 # bookHref: ''
 ---
 # The Bands
-{{<picture src="/images/the band 25th.png"  width="300 px">}}
+{{<picture src="/images/Harvey Rodney and me.png"  width="300 px">}}
 Before I get into my first band that I put together I need to talk about a very special second cousin that I was very close to.  His mother was my Dad’s first cousin and we used to visit them a lot and they would visit us a lot.  We would also meet up on vacation like Banff, Jasper, and Revelstoke.  These vacations always seem to be close to Sulfur hot springs.  We did all sorts of things together with this cousin.  I did think of him as a best friend and wanted to include him in everything that I did.  He was a trumpet player and was also taking Organ lessons.  His family had an Organ setup in the living room and I remember the two of us playing together on it.
-
+g
 I was probably about 14 or 15 when I put my first band together which consisted of a couple of cousins that lived in Barrhead.  I taught one of these cousins how to play guitar so that we could have two guitars and his sister played the piano.  My brother sang and put the least amount of time and practice into this small band that I put together.  When we first started to perform, we never had a name so they started referring to it as my brother's band.  This ticked off my cousins more than me, but I was not happy with that choice either because of the little effort that he made with the band but he was the singer.
 
+{{<picture src="/images/the band 25th.png"  width="300 px">}}
 Now, I am going to bounce back and forth here a bit to try and give some context on how things unfolded.  I remember when we were at my second cousin's house a few times when we were listening to Herb Albert and the Tijuana Brass.  For young teenage boys, this was cool stuff and had the elements of what would now be thought of as a stage band.  I liked the sound of a rhythm section backing up a brass section.  My cousin gravitated to the brass and I to the guitars, bass, and keyboards.
 
 One Thanksgiving weekend my band was scheduled to play during an afternoon Thanksgiving service.  Every Thanksgiving our church hosted a Thanksgiving Dinner right after the morning service which then went to an afternoon service.  My second cousin and his family were also going to be there so I talked him into bringing his trumpet so we could add that to the band.  I think that was the first time that I added the brass element to my band and this was the start.  The jazz and blues influences all came later but I think we can say that this is where those seeds were planted.
