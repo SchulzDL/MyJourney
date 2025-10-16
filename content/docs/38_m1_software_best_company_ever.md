@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # M1 Software, best company ever
+{{<picture src="/images/Sailboat Gang.png"  width="300 px">}}
 This was a fantastic company to work for. For meeting goals we got to have lunch on a boat in the Marina. For Christmas one year they took over a restaurant in Santa Barbara and put us up in a hotel and bought us train tickets to get there and a limousine waiting at the train station to take us to the hotel.  There were so many perks and bonuses that went along with this job. They even paid the legal team that was working on getting me a green card (permanent residency).
 
 I also learned why that second letter of employment was so hard for David to write. He was quite the stickler when it came to English grammar and plagiarism. It was not uncommon to come into my workspace  in the morning and find emails that I had sent, printed out with red correction marks on them. I learned a lot about proper grammar rules from my time there.

@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Life After College
+{{<picture src="/images/Northgate Towers.png"  width="300 px">}}
 Time to start earning some money. That summer I was planning to go back to Barrhead but by then Rodney and his whole family had moved into Moms house and Connie and Terry took over the bottom part of the house, there was no room for me so I rented an apartment in the Northgate area of Edmonton in one of my Uncle Fred’s apartment. Found out that the family discount was a free parking spot.
 
 Getting a job or people to hire me was harder than I expected. I would apply for a job and during the interview they would determine that I was over qualified for the job that they had posted and were sure that I would become bored. However, once in a while they would tell me about a special project that they wanted to build and ask me my opinion and I would give them a couple of ideas of how I would approach the project and then they would say, “Can you start Monday”. I got a lot of contracting jobs and so the fake company that I created in College for my assignments became a reality. I worked under the name of “DL’s Technology”  It sort of uses the same template of a logo that I today used for my “The Donald Schulz Project” but that is going to be a couple of decades forward.
