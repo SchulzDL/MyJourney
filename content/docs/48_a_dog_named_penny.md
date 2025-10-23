@@ -1,5 +1,5 @@
 ---
-title: "47 A Dog Named Penny"
+title: "48 A Dog Named Penny"
 weight: 1
 # bookFlatSection: false
 bookToc: true

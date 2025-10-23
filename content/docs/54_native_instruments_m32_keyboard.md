@@ -1,5 +1,5 @@
 ---
-title: "53 Native Instruments M32 Keyboard"
+title: "54 Native Instruments M32 Keyboard"
 weight: 1
 # bookFlatSection: false
 bookToc: true

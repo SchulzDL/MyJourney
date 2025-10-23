@@ -1,5 +1,5 @@
 ---
-title: "49 Our Down Size House"
+title: "50 Our Down Size House"
 weight: 1
 # bookFlatSection: false
 bookToc: true

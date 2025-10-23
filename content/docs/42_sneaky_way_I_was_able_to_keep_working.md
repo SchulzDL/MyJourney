@@ -1,5 +1,5 @@
 ---
-title: "41 Sneaky Way I Was Able to Keep Working"
+title: "42 Sneaky Way I Was Able to Keep Working"
 weight: 1
 # bookFlatSection: false
 bookToc: true

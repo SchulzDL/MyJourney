@@ -1,5 +1,5 @@
 ---
-title: "34 Grant MacEwan for the Second Time"
+title: "35 Grant MacEwan for the Second Time"
 weight: 1
 # bookFlatSection: false
 bookToc: true

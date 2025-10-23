@@ -1,5 +1,5 @@
 ---
-title: "51 Good Bones but Needed a Major Renovation"
+title: "52 Good Bones but Needed a Major Renovation"
 weight: 1
 # bookFlatSection: false
 bookToc: true

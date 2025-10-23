@@ -1,5 +1,5 @@
 ---
-title: "56 Then There Were Two"
+title: "57 Then There Were Two"
 weight: 1
 # bookFlatSection: false
 bookToc: true
