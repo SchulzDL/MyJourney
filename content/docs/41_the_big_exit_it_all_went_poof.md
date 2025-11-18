@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # The Big Exit, It all went Poof
+{{<picture src="/images/Gone.png"  width="300 px">}}
 Somewhere along the way, M1 was bought up by a company out of Chicago called One, Inc.  that was buying software company across the USA and trying to be a specialized CRM shop. Their original plan was to IPO the whole concept and turn it into a public company. However, the timing for that was all wrong as the dot com boom was coming to an end and many companies needed to start making some actual money or die.  
 
 When the Investment company that was funding this venture realized that the original CEO that was putting this together did not have a real plan to make a profitable company out of all these companies that were acquired, there was a changing of the guard. The new CEO was really pushing for everyone to be trained in various CRM systems and turn us into sales people. I was lucky in that I got onto some high profile projects that actually paid and was able to avoid the useless exercise that this was  heading into.
