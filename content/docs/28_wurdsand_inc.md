@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Wurdsand, Inc.
+{{<picture src="/images/Wurdsand Logo.png"  width="300 px">}}
 After five years of working at Schulz Motors and knowing my Uncle lacked in the confidence that maybe I knew somethings that could be helpful.  It was clear to me and my Dad that I had no future there and I think he and my brother Rodney started to have the same thoughts.  Which eventually became the split from this enterprise as they started their own Dealership a couple of years later.
 
 I saw my exit when a college from my Fast Flow Printing days, Al and I decided to start a printing company that we called Wurdsand, Inc.  It is a play on words with the way that it sounds.  When you look at the business card it just looks like a weird name for a company but when you sound it out you get “Words and Ink” and then it starts to make sense as a printing company.

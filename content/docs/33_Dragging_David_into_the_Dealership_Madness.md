@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Dragging David into the Dealership Madness
+{{<picture src="/images/David.png"  width="300 px">}}
 Things were happening and we were selling Nissans, but the problem with a car that is as well built as a Nissan is that our service department was not getting the work from those sales.  You need more work beyond oil changes and other maintenance work.  Our tractor repairs was the only real work that was keeping our service department busy.  Somewhere along the way we decided to expand into Whitecourt, which is probably about 100 mile north west of us.  We had a Sales Shack built and we needed someone we could trust to run it.  This is where I convinced David to move there to manage this expansion.
 
 David was great, in holding it all together.  We had great trouble trying to keep the telephone operational as the lot where we had this shack, the telephone was suspended in the air, but these big trucks would sometimes use our lot as a shortcut and break the line.  I remember it was also winter, and the guys were cold even though we did have a heater in the shack.  I remember going out to Whitecourt one weekend staying at David’s apartment.  Eventually we closed down our Whitecourt expansion as I don’t think we ever sold anything directly from that operation.  After we shut down Whitecourt, David moved to Barrhead and continued on as a salesman in the dealership.

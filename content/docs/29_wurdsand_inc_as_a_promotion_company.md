@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # Wurdsand, Inc. as a Promotion Company
+{{<picture src="/images/Wurdsand BusCard.png"  width="300 px">}}
 Well, the partnership with Al was falling apart as we just weren’t bringing enough money in to continue to pay rent in the little office/warehouse that we were renting to run our printing business out of.  During the last night of the Haunted House, my friend Dave Sommers and I went down to the office for the last time to get the few things that I had purchased like the front counter, piled it into my van and unloaded it in my apartment which was on the West End of Edmonton, overlooking the West Edmonton Mall.  I would continue to run the company Wurdsand, Inc but I found that I could rent time on an offset press so in some ways it was business as usual but without the huge rent.  I can’t remember the name of the place but it was run by a guy with a very thick European Accent named Nick.
 
 Out of my apartment, I do remember getting into a bit of the publishing game with Dave Summers.  There was an artist that was about to record at Damon Studio and we tried to pitch some songs that would be suitable for the artist.  It was a hard pass on the songs we were pitching.  That was about it with my projects with Dave Summers and we fell out of touch over time.
