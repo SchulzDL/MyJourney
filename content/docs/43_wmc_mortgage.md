@@ -10,6 +10,7 @@ bookHidden: false
 # bookHref: ''
 ---
 # WMC Mortgage
+{{<picture src="/images/WMC.png"  width="300 px">}}
 After the Hilton contract ended, there was some weeks and it could have even have been months before I found another engagement. The next job came through a headhunter who was looking for people who could program in Visual Basic, porting over from software that ran on a mainframe. The language of the original code was pretty easy to follow so this was a fun little project that didn’t even require a lot of thinking.  The contract was for three months but as they let other people go as they completed various phases of the project, they kept extending my stay. In the end I was there for 2.5 years.
 
 The whole thing was built like little mini programs that would be called up from a main menu. It was almost like a crude micro services which is what everyone is thriving for today instead of the big mammoth sized programs.  You could easily rebuild just one component and replace an esisting one without affecting the system at all. You could have users working with the program while other modules were being developed.
